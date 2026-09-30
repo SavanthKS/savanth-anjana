@@ -1,17 +1,40 @@
-# Anjana & Savanth Wedding Invitation
+# Anjana & Savanth — Green Watercolor Invitation
 
-A responsive, static wedding invitation site built with plain HTML, CSS, and JavaScript.
+This version uses the uploaded watercolor couple image on the first page, story section and gallery.
 
-## Files
+Run by opening `index.html` in Chrome.
 
-- `index.html` contains the invitation content and semantic page structure.
-- `styles.css` contains the responsive layout, typography, and visual theme.
-- `script.js` provides the live countdown and downloadable calendar events.
+Palette: sage green, deep green, ivory, watercolor white and champagne gold.
 
-## Run
+Wedding countdown: 16 May 2027, 10:00 AM IST.
 
-Open `index.html` in a browser. No build step, package manager, or installed libraries are required.
 
-## External assets
+Updated: Wedding Weekend cards + animated Our Story image.
 
-The page loads DM Sans, Playfair Display, and Great Vibes from Google Fonts. An internet connection is only needed for those fonts; the page has no photo or image assets and its CSS ornaments work offline.
+
+## Wedding Details redesign
+The Wedding Weekend section now follows the uploaded reference style:
+- Centered script "Wedding Details" heading
+- Two elegant ivory cards
+- Wedding card with Location, Map, Muhurtham and Attire
+- Reception card with Location, Time and Attire
+- Wedding Eve shown as a slim detail row
+- Soft gold borders, shadows and subtle motion
+
+
+## Final requested changes
+- Wedding Details now uses exactly 3 cards: Wedding Eve, The Wedding, Reception.
+- Wedding location updated to: Payyoli Town, Near Court, Kozhikode Dist - Kerala.
+- Venue section removed.
+- Navigation Venue item removed.
+- Large white gaps reduced.
+- Countdown section contrast, spacing and card visibility improved.
+
+
+## RSVP update
+- RSVP now uses the same soft sage/ivory background family as the former venue section.
+- Added the requested Thank You message.
+- Removed the previous "Be there for our beginning" content.
+- Kept the WhatsApp I'M ATTENDING button.
+- Removed the numbered section headings.
+- Reduced excessive top and bottom whitespace across sections.
